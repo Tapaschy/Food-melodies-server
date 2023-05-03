@@ -1,0 +1,406 @@
+[
+    {
+        "id": 1,
+        "name": "Chef John",
+        "picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "years_of_experience": 20,
+        "num_recipes": 3,
+        "recipes": [
+            {
+                "_id": 1,
+                "name": "Classic Cheeseburger",
+                "picture": "https://images.unsplash.com/photo-1591336277932-f0579b75992b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+                "ingredients": [
+                    "Ground beef",
+                    "Cheese",
+                    "Lettuce",
+                    "Tomato",
+                    "Onion",
+                    "Buns"
+                ],
+                "instructions": [
+                    "Form beef into patties",
+                    "Grill or fry patties",
+                    "Add cheese",
+                    "Assemble burger with toppings on bun"
+                ],
+                "rating": 4.5
+            },
+            {
+                "_id": 2,
+                "name": "Mac and Cheese",
+                "picture": "https://plus.unsplash.com/premium_photo-1669687760005-89584766cd99?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "ingredients": [
+                    "Elbow macaroni",
+                    "Cheddar cheese",
+                    "Butter",
+                    "Flour",
+                    "Milk"
+                ],
+                "instructions": [
+                    "Boil macaroni",
+                    "Make cheese sauce with butter, flour, and milk",
+                    "Combine macaroni and cheese sauce"
+                ],
+                "rating": 4.2
+            },
+            {
+                "_id": 3,
+                "name": "Fried Chicken",
+                "picture": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "ingredients": [
+                    "Chicken pieces",
+                    "Flour",
+                    "Eggs",
+                    "Buttermilk",
+                    "Seasonings"
+                ],
+                "instructions": [
+                    "Marinate chicken in buttermilk and seasonings",
+                    "Dredge chicken in flour and egg mixture",
+                    "Fry chicken until crispy and cooked through"
+                ],
+                "rating": 4.7
+            }
+        ],
+        "likes": 4700,
+        "bio": "Chef John has been cooking for over 20 years, and specializes in classic American comfort food. He is known for his no-nonsense approach to cooking and his ability to make even the simplest dishes taste delicious."
+    },
+    {
+        "id": 2,
+        "name": "Chef John",
+        "picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "years_of_experience": 20,
+        "num_recipes": 3,
+        "recipes": [
+            {
+                "_id": 1,
+                "name": "Classic Cheeseburger",
+                "picture": "https://images.unsplash.com/photo-1591336277932-f0579b75992b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+                "ingredients": [
+                    "Ground beef",
+                    "Cheese",
+                    "Lettuce",
+                    "Tomato",
+                    "Onion",
+                    "Buns"
+                ],
+                "instructions": [
+                    "Form beef into patties",
+                    "Grill or fry patties",
+                    "Add cheese",
+                    "Assemble burger with toppings on bun"
+                ],
+                "rating": 4.5
+            },
+            {
+                "_id": 2,
+                "name": "Mac and Cheese",
+                "picture": "https://plus.unsplash.com/premium_photo-1669687760005-89584766cd99?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "ingredients": [
+                    "Elbow macaroni",
+                    "Cheddar cheese",
+                    "Butter",
+                    "Flour",
+                    "Milk"
+                ],
+                "instructions": [
+                    "Boil macaroni",
+                    "Make cheese sauce with butter, flour, and milk",
+                    "Combine macaroni and cheese sauce"
+                ],
+                "rating": 4.2
+            },
+            {
+                "_id": 3,
+                "name": "Fried Chicken",
+                "picture": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "ingredients": [
+                    "Chicken pieces",
+                    "Flour",
+                    "Eggs",
+                    "Buttermilk",
+                    "Seasonings"
+                ],
+                "instructions": [
+                    "Marinate chicken in buttermilk and seasonings",
+                    "Dredge chicken in flour and egg mixture",
+                    "Fry chicken until crispy and cooked through"
+                ],
+                "rating": 4.7
+            }
+        ],
+        "likes": 4700,
+        "bio": "Chef John has been cooking for over 20 years, and specializes in classic American comfort food. He is known for his no-nonsense approach to cooking and his ability to make even the simplest dishes taste delicious."
+    },
+    {
+        "id": 3,
+        "name": "Chef John",
+        "picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "years_of_experience": 20,
+        "num_recipes": 3,
+        "recipes": [
+            {
+                "_id": 1,
+                "name": "Classic Cheeseburger",
+                "picture": "https://images.unsplash.com/photo-1591336277932-f0579b75992b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+                "ingredients": [
+                    "Ground beef",
+                    "Cheese",
+                    "Lettuce",
+                    "Tomato",
+                    "Onion",
+                    "Buns"
+                ],
+                "instructions": [
+                    "Form beef into patties",
+                    "Grill or fry patties",
+                    "Add cheese",
+                    "Assemble burger with toppings on bun"
+                ],
+                "rating": 4.5
+            },
+            {
+                "_id": 2,
+                "name": "Mac and Cheese",
+                "picture": "https://plus.unsplash.com/premium_photo-1669687760005-89584766cd99?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "ingredients": [
+                    "Elbow macaroni",
+                    "Cheddar cheese",
+                    "Butter",
+                    "Flour",
+                    "Milk"
+                ],
+                "instructions": [
+                    "Boil macaroni",
+                    "Make cheese sauce with butter, flour, and milk",
+                    "Combine macaroni and cheese sauce"
+                ],
+                "rating": 4.2
+            },
+            {
+                "_id": 3,
+                "name": "Fried Chicken",
+                "picture": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "ingredients": [
+                    "Chicken pieces",
+                    "Flour",
+                    "Eggs",
+                    "Buttermilk",
+                    "Seasonings"
+                ],
+                "instructions": [
+                    "Marinate chicken in buttermilk and seasonings",
+                    "Dredge chicken in flour and egg mixture",
+                    "Fry chicken until crispy and cooked through"
+                ],
+                "rating": 4.7
+            }
+        ],
+        "likes": 4700,
+        "bio": "Chef John has been cooking for over 20 years, and specializes in classic American comfort food. He is known for his no-nonsense approach to cooking and his ability to make even the simplest dishes taste delicious."
+    },
+    {
+        "id": 4,
+        "name": "Chef John",
+        "picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "years_of_experience": 20,
+        "num_recipes": 3,
+        "recipes": [
+            {
+                "_id": 1,
+                "name": "Classic Cheeseburger",
+                "picture": "https://images.unsplash.com/photo-1591336277932-f0579b75992b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+                "ingredients": [
+                    "Ground beef",
+                    "Cheese",
+                    "Lettuce",
+                    "Tomato",
+                    "Onion",
+                    "Buns"
+                ],
+                "instructions": [
+                    "Form beef into patties",
+                    "Grill or fry patties",
+                    "Add cheese",
+                    "Assemble burger with toppings on bun"
+                ],
+                "rating": 4.5
+            },
+            {
+                "_id": 2,
+                "name": "Mac and Cheese",
+                "picture": "https://plus.unsplash.com/premium_photo-1669687760005-89584766cd99?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "ingredients": [
+                    "Elbow macaroni",
+                    "Cheddar cheese",
+                    "Butter",
+                    "Flour",
+                    "Milk"
+                ],
+                "instructions": [
+                    "Boil macaroni",
+                    "Make cheese sauce with butter, flour, and milk",
+                    "Combine macaroni and cheese sauce"
+                ],
+                "rating": 4.2
+            },
+            {
+                "_id": 3,
+                "name": "Fried Chicken",
+                "picture": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "ingredients": [
+                    "Chicken pieces",
+                    "Flour",
+                    "Eggs",
+                    "Buttermilk",
+                    "Seasonings"
+                ],
+                "instructions": [
+                    "Marinate chicken in buttermilk and seasonings",
+                    "Dredge chicken in flour and egg mixture",
+                    "Fry chicken until crispy and cooked through"
+                ],
+                "rating": 4.7
+            }
+        ],
+        "likes": 4700,
+        "bio": "Chef John has been cooking for over 20 years, and specializes in classic American comfort food. He is known for his no-nonsense approach to cooking and his ability to make even the simplest dishes taste delicious."
+    },
+    {
+        "id": 5,
+        "name": "Chef John",
+        "picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "years_of_experience": 20,
+        "num_recipes": 3,
+        "recipes": [
+            {
+                "_id": 1,
+                "name": "Classic Cheeseburger",
+                "picture": "https://images.unsplash.com/photo-1591336277932-f0579b75992b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+                "ingredients": [
+                    "Ground beef",
+                    "Cheese",
+                    "Lettuce",
+                    "Tomato",
+                    "Onion",
+                    "Buns"
+                ],
+                "instructions": [
+                    "Form beef into patties",
+                    "Grill or fry patties",
+                    "Add cheese",
+                    "Assemble burger with toppings on bun"
+                ],
+                "rating": 4.5
+            },
+            {
+                "_id": 2,
+                "name": "Mac and Cheese",
+                "picture": "https://plus.unsplash.com/premium_photo-1669687760005-89584766cd99?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "ingredients": [
+                    "Elbow macaroni",
+                    "Cheddar cheese",
+                    "Butter",
+                    "Flour",
+                    "Milk"
+                ],
+                "instructions": [
+                    "Boil macaroni",
+                    "Make cheese sauce with butter, flour, and milk",
+                    "Combine macaroni and cheese sauce"
+                ],
+                "rating": 4.2
+            },
+            {
+                "_id": 3,
+                "name": "Fried Chicken",
+                "picture": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "ingredients": [
+                    "Chicken pieces",
+                    "Flour",
+                    "Eggs",
+                    "Buttermilk",
+                    "Seasonings"
+                ],
+                "instructions": [
+                    "Marinate chicken in buttermilk and seasonings",
+                    "Dredge chicken in flour and egg mixture",
+                    "Fry chicken until crispy and cooked through"
+                ],
+                "rating": 4.7
+            }
+        ],
+        "likes": 4700,
+        "bio": "Chef John has been cooking for over 20 years, and specializes in classic American comfort food. He is known for his no-nonsense approach to cooking and his ability to make even the simplest dishes taste delicious."
+    },
+    {
+        "id": 6,
+        "name": "Chef Jane",
+        "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+        "years_of_experience": 15,
+        "num_recipes": 3,
+        "recipes": [
+            {
+                "_id": 1,
+                "name": "BBQ Ribs",
+                "picture": "https://plus.unsplash.com/premium_photo-1663011511161-22eea0cb8564?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+                "ingredients": [
+                    "Pork ribs",
+                    "BBQ sauce",
+                    "Brown sugar",
+                    "Salt",
+                    "Pepper"
+                ],
+                "instructions": [
+                    "Rub ribs with brown sugar, salt, and pepper",
+                    "Slow-cook ribs in BBQ sauce",
+                    "Serve with additional BBQ sauce"
+                ],
+                "rating": 4.8
+            },
+            {
+                "_id": 2,
+                "name": "Cornbread",
+                "picture": "https://images.unsplash.com/photo-1618776061053-3f65e855b0c8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+                "ingredients": [
+                    "Cornmeal",
+                    "Flour",
+                    "Sugar",
+                    "Baking powder",
+                    "Milk",
+                    "Egg",
+                    "Butter"
+                ],
+                "instructions": [
+                    "Mix dry ingredients",
+                    "Add wet ingredients and melted butter",
+                    "Bake in preheated oven"
+                ],
+                "rating": 4.3
+            },
+            {
+                "_id": 3,
+                "name": "Apple Pie",
+                "picture": "https://plus.unsplash.com/premium_photo-1666353534539-32710fad71ad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "ingredients": [
+                    "Apples",
+                    "Sugar",
+                    "Cinnamon",
+                    "Flour",
+                    "Butter",
+                    "Pie crust"
+                ],
+                "instructions": [
+                    "Mix apples, sugar, cinnamon, and flour",
+                    "Add mixture to pie crust",
+                    "Top with butter and second pie crust",
+                    "Bake in preheated oven"
+                ],
+                "rating": 4
+            }
+        ],
+        "likes": 4700,
+        "bio": "Chef John has been cooking for over 20 years, and specializes in classic American comfort food. He is known for his no-nonsense approach to cooking and his ability to make even the simplest dishes taste delicious."
+    }
+]
