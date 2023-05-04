@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Chef John",
         "picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-        "years_of_experience": 20,
+        "years_of_experience": 15,
         "num_recipes": 3,
         "recipes": [
             {
@@ -11,7 +11,7 @@
                 "name": "Classic Cheeseburger",
                 "picture": "https://images.unsplash.com/photo-1591336277932-f0579b75992b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
                 "ingredients": [
-                    "Ground beef",
+                         "Ground beef",
                     "Cheese",
                     "Lettuce",
                     "Tomato",
@@ -63,14 +63,14 @@
                 "rating": 4.7
             }
         ],
-        "likes": 4700,
+        "likes": 700,
         "bio": "Chef John has been cooking for over 20 years, and specializes in classic American comfort food. He is known for his no-nonsense approach to cooking and his ability to make even the simplest dishes taste delicious."
     },
     {
         "id": 2,
-        "name": "Chef John",
-        "picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-        "years_of_experience": 20,
+        "name": "Anthony Bourdain",
+        "picture": "https://images.unsplash.com/photo-1581349485608-9469926a8e5e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "years_of_experience": 13,
         "num_recipes": 3,
         "recipes": [
             {
@@ -130,14 +130,14 @@
                 "rating": 4.7
             }
         ],
-        "likes": 4700,
-        "bio": "Chef John has been cooking for over 20 years, and specializes in classic American comfort food. He is known for his no-nonsense approach to cooking and his ability to make even the simplest dishes taste delicious."
+        "likes": 500,
+        "bio": "Anthony Bourdain has been cooking for over 20 years, and specializes in classic American comfort food. He is known for his no-nonsense approach to cooking and his ability to make even the simplest dishes taste delicious."
     },
     {
         "id": 3,
-        "name": "Chef John",
-        "picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-        "years_of_experience": 20,
+        "name": "Heston Blumenthal",
+        "picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "years_of_experience": 12,
         "num_recipes": 3,
         "recipes": [
             {
@@ -197,14 +197,14 @@
                 "rating": 4.7
             }
         ],
-        "likes": 4700,
-        "bio": "Chef John has been cooking for over 20 years, and specializes in classic American comfort food. He is known for his no-nonsense approach to cooking and his ability to make even the simplest dishes taste delicious."
+        "likes": 400,
+        "bio": "Heston Blumenthal has been cooking for over 20 years, and specializes in classic American comfort food. He is known for his no-nonsense approach to cooking and his ability to make even the simplest dishes taste delicious."
     },
     {
         "id": 4,
         "name": "Chef John",
-        "picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-        "years_of_experience": 20,
+        "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg",
+        "years_of_experience": 17,
         "num_recipes": 3,
         "recipes": [
             {
@@ -230,7 +230,7 @@
             {
                 "_id": 2,
                 "name": "Mac and Cheese",
-                "picture": "https://plus.unsplash.com/premium_photo-1669687760005-89584766cd99?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "picture": "https://wpbingosite.com/wordpress/foodpa/wp-content/uploads/2023/03/Products-25.jpg",
                 "ingredients": [
                     "Elbow macaroni",
                     "Cheddar cheese",
@@ -257,7 +257,7 @@
                     "Seasonings"
                 ],
                 "instructions": [
-                    "Marinate chicken in buttermilk and seasonings",
+                    "Marinate chicken in buttermilk and seasonings,",
                     "Dredge chicken in flour and egg mixture",
                     "Fry chicken until crispy and cooked through"
                 ],
@@ -269,8 +269,8 @@
     },
     {
         "id": 5,
-        "name": "Chef John",
-        "picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name": "Paul Bocuse",
+        "picture": "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-standing-with-closed-posture-isolated-orange-wall_141793-101136.jpg?size=626&ext=jpg",
         "years_of_experience": 20,
         "num_recipes": 3,
         "recipes": [
@@ -287,9 +287,9 @@
                     "Buns"
                 ],
                 "instructions": [
-                    "Form beef into patties",
-                    "Grill or fry patties",
-                    "Add cheese",
+                    "Form beef into patties,",
+                    "Grill or fry patties,",
+                    "Add cheese,",
                     "Assemble burger with toppings on bun"
                 ],
                 "rating": 4.5
@@ -306,9 +306,9 @@
                     "Milk"
                 ],
                 "instructions": [
-                    "Boil macaroni",
+                    "Boil macaroni,",
                     "Make cheese sauce with butter, flour, and milk",
-                    "Combine macaroni and cheese sauce"
+                    "Combine macaroni and cheese sauce."
                 ],
                 "rating": 4.2
             },
@@ -324,15 +324,15 @@
                     "Seasonings"
                 ],
                 "instructions": [
-                    "Marinate chicken in buttermilk and seasonings",
-                    "Dredge chicken in flour and egg mixture",
-                    "Fry chicken until crispy and cooked through"
+                    "Marinate chicken in buttermilk and seasonings,",
+                    "Dredge chicken in flour and egg mixture,",
+                    "Fry chicken until crispy and cooked through."
                 ],
                 "rating": 4.7
             }
         ],
         "likes": 4700,
-        "bio": "Chef John has been cooking for over 20 years, and specializes in classic American comfort food. He is known for his no-nonsense approach to cooking and his ability to make even the simplest dishes taste delicious."
+        "bio": "Paul Bocuse has been cooking for over 20 years, and specializes in classic American comfort food. He is known for his no-nonsense approach to cooking and his ability to make even the simplest dishes taste delicious."
     },
     {
         "id": 6,
@@ -353,9 +353,9 @@
                     "Pepper"
                 ],
                 "instructions": [
-                    "Rub ribs with brown sugar, salt, and pepper",
-                    "Slow-cook ribs in BBQ sauce",
-                    "Serve with additional BBQ sauce"
+                    "Rub ribs with brown sugar, salt, and pepper,",
+                    "Slow-cook ribs in BBQ sauce,",
+                    "Serve with additional BBQ sauce."
                 ],
                 "rating": 4.8
             },
@@ -373,9 +373,9 @@
                     "Butter"
                 ],
                 "instructions": [
-                    "Mix dry ingredients",
-                    "Add wet ingredients and melted butter",
-                    "Bake in preheated oven"
+                    "Mix dry ingredients,",
+                    "Add wet ingredients and melted butter,",
+                    "Bake in preheated oven."
                 ],
                 "rating": 4.3
             },
